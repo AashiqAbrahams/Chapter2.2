@@ -6,9 +6,11 @@ public class Wolf extends Animal {
         super("Wolf");
     }
     public String sound(){
+
         return "howl";
     }
     public String move() {
+
         return "wolf running";
     }
 }
