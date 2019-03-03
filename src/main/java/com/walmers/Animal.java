@@ -19,4 +19,6 @@ public abstract class Animal implements Sound, Move {
         this.type = type;
     }
 
+
+
 }
